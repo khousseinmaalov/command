@@ -8,9 +8,6 @@ import socket
 socket = socket.socket()
 socket.bind(('', 15555))
 
-
-
-
 def serv(a, b, c, d, ryzen):
         GPIO.setmode(GPIO.BCM)
  
