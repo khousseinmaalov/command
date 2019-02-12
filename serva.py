@@ -1,4 +1,4 @@
-#plus de 50% du code trouvé sur le net
+#50% du code trouvé sur le net
 import serial
 import threading
 import sys
